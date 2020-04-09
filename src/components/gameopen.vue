@@ -29,7 +29,7 @@
             </div>
 
         </div>
-        <div class="row2" style="">
+        <div class="row2">
             <div class="issue">
                 <span>0318181</span><span>期</span>
             </div>
