@@ -30,7 +30,7 @@ axios.interceptors.request.use(
 
         if(config.method==='post'){
              Toast.loading({
-                message: '加载中...',
+                message: '加载中..',
                 overlay:true
             });
         }
