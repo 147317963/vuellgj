@@ -15,7 +15,7 @@
     "gsap": "^3.2.6",
     "lockr": "^0.8.5",
     "lodash": "^4.17.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "postcss-px-to-viewport": "^1.1.1",
     "qs": "^6.9.3",
     "swiper": "^5.3.6",
